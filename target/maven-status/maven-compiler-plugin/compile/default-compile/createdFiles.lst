@@ -1,0 +1,5 @@
+com/todoapp/model/Todo.class
+com/todoapp/service/TodoService.class
+com/todoapp/TodoResource.class
+com/todoapp/Bootstrap.class
+com/todoapp/JsonTransformer.class
